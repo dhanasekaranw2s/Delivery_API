@@ -1,8 +1,12 @@
 # Task List
 
-Get all task belongs to your account.
+Get all task belongs to your account use below url.
 
 **URL** : `/api/new_order/`
+
+You can get date wise insted of get method use below url.
+
+**URL** : `/api/new_order/?date=2019-10-24`
 
 **Method** : `GET`
 
