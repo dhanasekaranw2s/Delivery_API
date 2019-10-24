@@ -16,7 +16,7 @@ You can get date wise insted of get method use below url.
 
  ```x-client-data: <client_token>```
 
- ```x-client-date: <Current_Time_String>```
+ ```Content-Type: application/json```
 
 ```Authorization: <auth_token>```
 

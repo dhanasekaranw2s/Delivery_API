@@ -12,7 +12,7 @@ Task Creation Api.
 
  ```x-client-data: <client_token>```
 
- ```x-client-date: <Current_Time_String>```
+ ```Content-Type: application/json```
 
 ```Authorization: <auth_token>```
 

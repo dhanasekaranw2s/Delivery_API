@@ -11,6 +11,7 @@ Used to collect a Token for a registered User.
 **Headers required**:
 
  ```x-client-data: <client_token>```
+ ```Content-Type: application/json```
 
 
 **Data constraints**
